@@ -46,7 +46,7 @@ To explore this Power BI report:
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your_username/bank-loan-power-bi-report.git
+    git clone https://github.com/Gudiyarasu/Bank_Loan/blob/main/Bank_loan.pbix
     ```
 
 2. Open the Power BI file `Bank_Loan.pbix` using Power BI Desktop.
