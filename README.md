@@ -12,7 +12,8 @@ This dashboard provides a comprehensive summary of the bank's loan portfolio, of
 - **Average Interest Rate:** The average interest rate charged on loans.
 - **Average Debt-to-Income (DTI) Ratio:** The average ratio of a borrower's debt to their gross income.
 - **Good Loan vs Bad Loan:** A comparison between good loans (fully repaid or performing as expected) and bad loans (delinquent, defaulted, or charged off).
-  ![Overview]()
+  ![Summary](https://github.com/Gudiyarasu/Bank_Loan/raw/main/Datasets%20and%20Screenshots/Summary.png)
+
 
 
 ### Insights
@@ -35,6 +36,8 @@ The overview dashboard focuses on analyzing trends in the funded amount based on
 - **By Employee Length:** Analysis of funded amounts based on borrower's employment length.
 - **Verification Status:** Distribution of funded amounts based on borrower's verification status.
 - **Home Ownership:** Analysis of funded amounts based on borrower's home ownership status.
+    ![Overview](https://github.com/Gudiyarasu/Bank_Loan/raw/main/Datasets%20and%20Screenshots/Overview.png)
+
 
 ### Insights
 - 10+ years accounted for 26.65% of the total funded amount.
