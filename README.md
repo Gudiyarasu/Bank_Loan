@@ -12,6 +12,8 @@ This dashboard provides a comprehensive summary of the bank's loan portfolio, of
 - **Average Interest Rate:** The average interest rate charged on loans.
 - **Average Debt-to-Income (DTI) Ratio:** The average ratio of a borrower's debt to their gross income.
 - **Good Loan vs Bad Loan:** A comparison between good loans (fully repaid or performing as expected) and bad loans (delinquent, defaulted, or charged off).
+  ![Overview]()
+
 
 ### Insights
 
