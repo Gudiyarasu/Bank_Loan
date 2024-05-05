@@ -49,9 +49,9 @@ To explore this Power BI report:
     git clone https://github.com/your_username/bank-loan-power-bi-report.git
     ```
 
-2. Open the Power BI file `Bank_Loan_Report.pbix` using Power BI Desktop.
+2. Open the Power BI file `Bank_Loan.pbix` using Power BI Desktop.
 
-3. Interact with the dashboards to explore the loan portfolio insights.
+4. Interact with the dashboards to explore the loan portfolio insights.
 
 ## Data Sources
 
